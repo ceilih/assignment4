@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System.Buffers;
+using ClientCH;
+
+bool again = true;
+do
+{
+    try
+    {
+        
+    }
+    
+} while (again);
