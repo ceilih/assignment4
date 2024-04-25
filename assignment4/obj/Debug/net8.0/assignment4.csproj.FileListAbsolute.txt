@@ -1,0 +1,15 @@
+C:\CPSC1012\assignment4\assignment4\assignment4\bin\Debug\net8.0\assignment4.exe
+C:\CPSC1012\assignment4\assignment4\assignment4\bin\Debug\net8.0\assignment4.deps.json
+C:\CPSC1012\assignment4\assignment4\assignment4\bin\Debug\net8.0\assignment4.runtimeconfig.json
+C:\CPSC1012\assignment4\assignment4\assignment4\bin\Debug\net8.0\assignment4.dll
+C:\CPSC1012\assignment4\assignment4\assignment4\bin\Debug\net8.0\assignment4.pdb
+C:\CPSC1012\assignment4\assignment4\assignment4\obj\Debug\net8.0\assignment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\CPSC1012\assignment4\assignment4\assignment4\obj\Debug\net8.0\assignment4.AssemblyInfoInputs.cache
+C:\CPSC1012\assignment4\assignment4\assignment4\obj\Debug\net8.0\assignment4.AssemblyInfo.cs
+C:\CPSC1012\assignment4\assignment4\assignment4\obj\Debug\net8.0\assignment4.csproj.CoreCompileInputs.cache
+C:\CPSC1012\assignment4\assignment4\assignment4\obj\Debug\net8.0\assignment4.sourcelink.json
+C:\CPSC1012\assignment4\assignment4\assignment4\obj\Debug\net8.0\assignment4.dll
+C:\CPSC1012\assignment4\assignment4\assignment4\obj\Debug\net8.0\refint\assignment4.dll
+C:\CPSC1012\assignment4\assignment4\assignment4\obj\Debug\net8.0\assignment4.pdb
+C:\CPSC1012\assignment4\assignment4\assignment4\obj\Debug\net8.0\assignment4.genruntimeconfig.cache
+C:\CPSC1012\assignment4\assignment4\assignment4\obj\Debug\net8.0\ref\assignment4.dll

@@ -7,6 +7,13 @@
     private int _weight;
     private int _height;
 
+    public Client()
+		{
+			FirstName="XXXX";
+			LastName="YYYY";
+			Weight = 0;
+            Height = 0;
+		}
     public Client(string firstName, string lastName, int weight, int height)
     {
         FirstName = firstName;
